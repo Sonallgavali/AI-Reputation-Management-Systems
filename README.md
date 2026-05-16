@@ -228,11 +228,7 @@ Instead of overengineering the system, the focus was placed on:
 
 # 🎥 Demo Video
 
-Add your demo video link here:
-
-```md
-[Watch Demo Video]https://github.com/user-attachments/assets/3074c910-b4bb-4352-81c2-2e85a6d3f4f8
-
+[Watch Demo Video](https://github.com/user-attachments/assets/3074c910-b4bb-4352-81c2-2e85a6d3f4f8)
 
 ```
 
