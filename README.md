@@ -208,10 +208,10 @@ Instead of overengineering the system, the focus was placed on:
 
 [Watch Demo Video](https://github.com/user-attachments/assets/3074c910-b4bb-4352-81c2-2e85a6d3f4f8)
 
-```
+
 ## 🚀 Live Demo
 
-Check out the app here: (https://ai-reputation-management-systems-7zun9kmpz6h8vqcnyjtvoz.streamlit.app/)
+Check out the app here: [Streamlit App](https://ai-reputation-management-systems-7zun9kmpz6h8vqcnyjtvoz.streamlit.app/)
 
 ---
 
