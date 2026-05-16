@@ -231,7 +231,7 @@ Instead of overengineering the system, the focus was placed on:
 Add your demo video link here:
 
 ```md
-[Watch Demo Video](YOUR_VIDEO_LINK)
+[Watch Demo Video](https://screenrec.com/share/GR7INezjH4)
 ```
 
 ---
