@@ -231,7 +231,9 @@ Instead of overengineering the system, the focus was placed on:
 Add your demo video link here:
 
 ```md
-[Watch Demo Video](https://screenrec.com/share/GR7INezjH4)
+[Watch Demo Video](https://github.com/user-attachments/assets/3074c910-b4bb-4352-81c2-2e85a6d3f4f8)
+
+
 ```
 
 ---
@@ -295,7 +297,7 @@ streamlit run app.py
 
 # 🔒 Environment Variables
 
-The project uses environment variables for secure API key management.
+The project uses environ!ment variables for secure API key management.
 
 Example:
 
